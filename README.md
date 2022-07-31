@@ -1,3 +1,3 @@
 # Belajar Javascript Dasar
 
-[![Javascript Dasar](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/RUTV_5m4VeI)
+- https://youtube.com/playlist?list=PLFIM0718LjIWXagluzROrA-iBY9eeUt4w
